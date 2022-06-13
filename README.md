@@ -27,3 +27,11 @@ List of users
 
 
 to clone the repo use `git clone`
+
+```
+git clone
+git push
+git pull
+git fetch
+git add
+```

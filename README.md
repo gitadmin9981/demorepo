@@ -41,4 +41,4 @@ git add
 - [x] About Git
 - [x] Managing Files in Git
 - [x] Github
-- [x] Managing Remote Repository :clap :sleeping
+- [x] Managing Remote Repository :clap: :sleeping:

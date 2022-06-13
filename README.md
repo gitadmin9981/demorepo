@@ -10,6 +10,6 @@ THis is demo repo
 
 ![This is an image](pic.PNG)
 
-This site was built using [GitHub Pages](https://github.com/logos)
+This site was built using [Page for Logo](https://github.com/logos)
 
 

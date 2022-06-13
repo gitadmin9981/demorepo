@@ -6,3 +6,6 @@
 ### VCS stand for version control system
 
 THis is demo repo
+
+
+![This is an image](pic.PNG)

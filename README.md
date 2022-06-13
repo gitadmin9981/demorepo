@@ -1,7 +1,8 @@
 # demorepo
 
+<!-- this is first heading -->
 # Chapter-1
-## Waht is vcs
+## What is vcs
 ### VCS stand for version control system
 
 THis is demo repo

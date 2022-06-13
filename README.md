@@ -24,3 +24,6 @@ List of users
 2. adil
 3. adnan
 4. rajesh
+
+
+to clone the repo use `git clone`

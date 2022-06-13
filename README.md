@@ -35,3 +35,10 @@ git pull
 git fetch
 git add
 ```
+
+
+- [x] Introduction of VCS
+- [x] About Git
+- [x] Managing Files in Git
+- [x] Github
+- [ ] Managing Remote Repository
